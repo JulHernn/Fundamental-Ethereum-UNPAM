@@ -74,7 +74,7 @@ Kontrak `PersonalVault.sol` harus memiliki 3 fungsi inti berikut:
 
 > Isi bagian ini setelah kontrak kalian ter-deploy dan ter-verify di Sepolia.
 
-- **Nama & NIM:**
+- **Nama & NIM:** Julian Hernan 241011402669
 - **Contract Address (Sepolia):** 0x070D82508aC07b569f61E55610E9d69777AAAcc6
 - **Etherscan Verified Link:** https://sepolia.etherscan.io/address/0x070D82508aC07b569f61E55610E9d69777AAAcc6
 - **Unlock Time (deploy awal):** 1783788600
